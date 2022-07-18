@@ -1,0 +1,1 @@
+We are going to use Python 3.9 in this course.
