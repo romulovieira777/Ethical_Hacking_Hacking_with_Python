@@ -1,0 +1,28 @@
+Programs make decisions all the time. A self driving car needs to decide if to accelerate or to break. A robot vacuum
+cleaner needs to decide if to drive forward or break and so on.
+
+How can programs make decisions?
+
+Using if statements.
+
+For example:
+    if job:
+       work()
+    else:
+      search_job()
+
+Python is very strict with indention, always use four spaces. And note the colon : character
+
+Here if  indicates the start of the decision. Python always decides based on a variable or condition.
+
+The colon : indicates the end of the if statement
+
+Every indented line is part of the code block (what to do if it's true/false)
+
+else indicates the negative situation
+
+Another example:
+    if age < 18:
+        print("cannot vote")
+    else:
+        print("you can vote")

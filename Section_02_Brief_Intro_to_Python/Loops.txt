@@ -1,0 +1,48 @@
+A loop repeats code. There are two kinds of loops in Python, for and while loops.
+
+
+for loops
+
+A for loop repeats code until the condition is met.
+    for i in range(10):
+        print(i)
+
+This repeats the call the print() function ten times. Variable i is the iterator variable, this counts every round of
+the loop. Your for loop can have multiple lines of code to repeat.
+
+You can use it on lists too:
+
+    websites = ["udemy.com", "google.com", "wikipedia.org"]
+    for site in websites:
+         print(site)
+
+while loops
+
+If you don't know how long something is gonna take, you need a while loop.
+
+Some examples:
+    while playing_game:
+       do_game_stuff()
+
+    while raining:
+       umbrella()
+
+Without a stopping condition, while loops would go on forever. While loops must have a stopping condition:
+    while playing_game:
+        do_game_stuff()
+        if bored:
+           break
+
+    while raining:
+       umbrella()
+       if sunshine:
+           break
+
+A numeric example:
+    i = 1
+    while i < 10
+        print(i)
+
+        # stopping condition
+        if i == 5:
+            break

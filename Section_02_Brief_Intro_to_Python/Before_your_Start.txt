@@ -1,0 +1,14 @@
+This is not a programming course, however I will briefly introduce Python.
+
+If you already know the Python programming language, skip this section.
+
+
+You can run Python by  saving a file as my_program.py with the code and then typing the command
+
+python my_program.py
+
+or the command
+
+python3 my_program.py
+
+If Python is not installed, head over to python.org

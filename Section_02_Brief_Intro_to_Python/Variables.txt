@@ -1,0 +1,15 @@
+Play around with variables.  A variable is data in the computers memory.
+
+Try the program below:
+    hero = "spiderman"
+    strength = 5
+    price = 1.5
+    print(hero)
+Now create your own variables and output them to the screen. For fun you can try some mathematical operators like +, -, *, /.
+
+    strength = strength + 1
+    print(strength)
+You can show the type of data, try that for all your variables
+
+    print(type(hero))
+Here we call the function type() and the output of that function is given to the print() function.

@@ -1,0 +1,24 @@
+Imports
+
+In Python you don't have to write every function yourself. You can use functions that exist in modules.
+You can think of a module as a set of functions.
+
+For example:
+    import math
+    x = math.sin(1)
+    y = math.cos(1)
+
+Here you don't write the functions sin() and cos() yourself, you load them from the math module using the import keyword.
+
+Another example:
+    import os
+    os.mkdir('new directory')
+
+Here you call the function mkdir() which creates a new directory. The function exists in the module os which you load
+using import.
+
+You can install modules yourself using the pip package manager, the command for that:
+    pip install module
+
+or the command:
+    pip3 install module

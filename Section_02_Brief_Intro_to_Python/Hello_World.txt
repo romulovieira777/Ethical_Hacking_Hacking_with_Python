@@ -1,0 +1,11 @@
+Hello world
+
+Create a program that outputs the text "hello world". The code for that is:
+    print("Hello World")
+
+Run the program and try to output different things, like multiple lines (use \n), tabs (use \t).
+
+The parenthesis () indicate that a function is called, the print function. The text "Hello World" is a parameter to the function.
+Text is always between quotes "" , in programming we call text strings.
+
+So "Hello World" is a string.

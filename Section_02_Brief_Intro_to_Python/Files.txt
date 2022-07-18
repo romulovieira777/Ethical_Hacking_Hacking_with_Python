@@ -1,0 +1,18 @@
+Files
+
+You can use Python to read and write files. Some code examples
+
+Read file:
+    f = open("file_name", "r")
+    file_text = f.read()
+    print(file_text)
+
+Append to existing file:
+    f = open("your_file.txt", "a")
+    f.write("This line is added")
+    f.close()
+
+Create and write file:
+    f = open("your_file.txt", "w")
+    f.write("file created, with this contents")
+    f.close()
