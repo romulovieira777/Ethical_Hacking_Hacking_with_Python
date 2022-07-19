@@ -1,0 +1,6 @@
+Introduction
+
+Now that you have all possible ways in using attack surface investigation. You can try to get in.
+
+Possible ways are brute forcing (trying large lists of passwords) and keyloggers. Of course there are many more ways to
+get in, besides these two attacks. These are just for example purposes.
